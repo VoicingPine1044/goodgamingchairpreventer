@@ -1,0 +1,5 @@
+name: PacketsControl
+version: '8.9'
+main: org.packetscontrol
+api-version: '1.20'
+author: VoicingPine1044
