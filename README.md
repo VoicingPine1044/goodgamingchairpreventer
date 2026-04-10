@@ -5,6 +5,8 @@ Permissions: packetevents.creator to skip the change
 
 This plugin uses **Minecraft Translation Keys "exploit"** 
 
+# This is not flawless ://https://github.com/NikOverflow/ExploitPreventer
+
 # Why **"Exploit"** with ""?
 
 Becausethis isnt an exploit!
@@ -15,10 +17,11 @@ A lot of people think using this "exploit" isnt ok
 
 Sorry im not feeling well today.
 
+And as you can see who are all the people compalining about this? You guessed it. cheaters
+They are the only ones hating on detecting mods like this (Or detecting any cheats in general).
+
 So this is a feature for server devs to automatticly translate text for users to play
 their games without needing a translator.
-
-
 
 
 <img width="755" height="169" alt="image" src="https://github.com/user-attachments/assets/08eb0984-a7cc-4d0d-91c5-7ac9001f6099" />
