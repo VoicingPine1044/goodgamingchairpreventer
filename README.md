@@ -5,7 +5,7 @@ Permissions: packetevents.creator to skip the change
 
 This plugin uses **Minecraft Translation Keys "exploit"** 
 
-# This is not flawless :[Clickabl([https://www.example.com](https://github.com/NikOverflow/ExploitPreventer))
+# This is not flawless :[Clickabl]([https://www.example.com](https://github.com/NikOverflow/ExploitPreventer))
 
 # Why **"Exploit"** with ""?
 
