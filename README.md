@@ -6,7 +6,7 @@ Permissions: packetevents.creator to skip the change
 This plugin uses **Minecraft Translation Keys "exploit"** 
 
 # This is not flawless:
-[Clickable Text](https://github.com/NikOverflow/ExploitPreventer)
+[With this.](https://github.com/NikOverflow/ExploitPreventer)
 
 # Why **"Exploit"** with ""?
 
