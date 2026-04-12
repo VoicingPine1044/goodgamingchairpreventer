@@ -1,7 +1,7 @@
 
 Plugin that uses Minecraft translation keys "exploit" to detect mods installed that use this features.
 
-Permissions: packetevents.creator to skip the change
+Permissions: packetevents.creator to skip the check
 
 This plugin uses **Minecraft Translation Keys "exploit"** 
 
