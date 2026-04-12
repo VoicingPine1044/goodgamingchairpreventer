@@ -128,9 +128,12 @@ public class packetscontrol extends JavaPlugin implements Listener {
 
     @EventHandler
     public void onQuit(PlayerQuitEvent event) {
-        UUID uuid = event.getPlayer().getUniqueId();
+        Player player = event.getPlayer();
+        UUID uuid = player.getUniqueId();
         pendingPlayers.remove(uuid);
-        originalBlockData.remove(uuid);
+
+        Block block = player.getLocation().clone().add(0, -5, 0).getBlock();
+        restoreBlock(uuid, block);
     }
 
     private void kick(Player player, String modName) {
